@@ -1,0 +1,25 @@
+.sobrenos{
+    display: flex;
+    flex-direction: column;
+    width: 55vw;
+    margin: 6em auto;
+    gap: 2em;
+    align-items: center;
+}
+
+.sobrenos__palavra{
+    color: var(--marrom);
+    font-weight: 700;
+}
+
+.sobrenos__titulo{
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.sobrenos__texto{
+    font-size: 20px;
+    color: var(--cinza);
+    text-align: center;
+    margin-bottom: 0;
+}
