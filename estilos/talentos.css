@@ -4,8 +4,8 @@
     flex-direction: column;
     gap: 1em;
     align-items: center;
-    margin: 6em auto;
-    padding: 5em 0;
+    margin: 6em auto 2em auto;
+    padding: 5em 0 2em 0;
 }
 
 .talentos__alerta{
